@@ -5,7 +5,7 @@
 ![Divider](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 <h1 align="center">Hi 👋, I'm Abdelilah Tahiri</h1>
-<h3 align="center">Software Engineering Student from Morocco 🇲🇦</h3>
+<h3 align="center">Software Engineering Student </h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering+Student;Software+Engineering+%26+Distributed+Systems;Full+Stack+Developer;Problem+Solver;Passionate+Learner&font=Pacifico&center=true&width=1000&height=120&color=58a6ff&vCenter=true&size=45)](#)
 
